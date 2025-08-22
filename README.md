@@ -53,6 +53,13 @@ Uygulama; dinamik arama ve filtreleme, veritabanı yönetimi, kullanıcı dostu 
 > Veritabanı normalizasyon kurallarına uygun şekilde tasarlanmış ve many-to-many ilişkiler doğru şekilde temsil edilmiştir.  
 
 ---
+<img width="1470" height="956" alt="Ekran Resmi 2025-08-22 12 19 27" src="https://github.com/user-attachments/assets/7406df91-2da1-4e11-a01e-dadd62f8b778" />
+<img width="468" height="246" alt="Ekran Resmi 2025-08-22 12 20 50" src="https://github.com/user-attachments/assets/b46c10fd-2620-493e-b281-f509a55d0092" />
+<img width="420" height="323" alt="Ekran Resmi 2025-08-22 12 21 04" src="https://github.com/user-attachments/assets/d262e24d-1da6-4fd0-8ea0-d53d2bf1dda8" />
+<img width="541" height="581" alt="Ekran Resmi 2025-08-22 12 21 17" src="https://github.com/user-attachments/assets/a6ba1399-2632-4980-b984-bb95d7650f43" />
+
+<img width="1470" height="956" alt="Ekran Resmi 2025-08-22 12 21 57" src="https://github.com/user-attachments/assets/a8b6a4f6-eec2-4b78-8d3e-e5fbed415b6a" />
+
 
 ## Kurulum
 1. Depoyu klonlayın:  
